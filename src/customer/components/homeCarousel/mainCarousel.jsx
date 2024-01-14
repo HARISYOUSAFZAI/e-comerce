@@ -18,7 +18,7 @@ return(
         disableButtonsControls  // disappear the arrows <>
         autoPlayInterval={2000}
         autoPlay
-        animationDuration={3000}
+        // animationDuration={3000}
         infinite
     />
 )
